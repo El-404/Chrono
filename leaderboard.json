@@ -1,7 +1,9 @@
-"people": [
-  {
-    "name": "test",
-    "score": 0,
-    "date": "01:01::24"
-  }
-]
+{
+  "people": [
+    {
+      "name": "test",
+      "score": 0,
+      "date": "01:01::24"
+    }
+  ]
+}
